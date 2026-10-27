@@ -1,0 +1,36 @@
+#feature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-grid {
+    border: 1px solid #e6e6e6;
+    border-radius: 7px;
+    width: 16%;
+    text-align: start;
+    margin-left: 10px;
+        background-color: #f2f2f2;
+}
+
+.features-card span i {
+    font-size: 25px;
+    color: rgb(46, 155, 2);
+}
+
+.features-card {
+    margin: 5px 10px 5px 10px;
+}
