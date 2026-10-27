@@ -1,0 +1,42 @@
+.hero-container{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.bullet, i  p{
+    color: green;
+}
+
+ .bullet{
+    border: 1px solid rgb(146, 247, 166);
+    width: 22%;
+    padding: 5px 10px 4px 15px;
+    border-radius: 25px;
+    /* height: 50%; */
+    background-color:rgb(240, 255, 243);
+}
+ .aside-container h1 span{
+    color: rgb(46, 155, 2);
+ } 
+ 
+ .hero-actions{
+   
+    width: 28%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero-actions button{
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.hero-actions .btn{
+    background-color: rgb(46, 155, 2);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 50%;
+}
+ 
