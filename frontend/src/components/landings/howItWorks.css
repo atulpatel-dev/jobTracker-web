@@ -1,0 +1,34 @@
+.steps-path {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    padding: 10px;
+    margin-left: 1rem;
+
+}
+.step span{
+    border: 1px solid black;
+    height: 2rem;
+    width: 3.5rem;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    background-color: green;
+       display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.step-root{
+    margin-left: 2rem;
+}
