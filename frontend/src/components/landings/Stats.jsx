@@ -1,3 +1,4 @@
+import './stats.css';
 function Stats() {
     return (
         <section className="stats">

@@ -1,0 +1,26 @@
+.stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 2rem;
+    background-color: #cbede6;
+    height: 5rem;
+}
+
+.stats-item{
+ padding-left: 13px;
+    width: 15%;
+    height: 5rem;
+   
+
+}
+
+.stats-item h2{
+    
+     color: rgb(46, 155, 2);
+    margin-bottom: 10px;
+}
+.stats-item p{
+    margin-top: 5px;
+}
