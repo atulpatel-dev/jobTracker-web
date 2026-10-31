@@ -1,0 +1,25 @@
+.signup-bar {
+    text-align: center;
+    margin-top: 3rem;
+    background-color: #04044f;
+    color: white;
+    height: 8rem;
+}
+
+.signup-bar h3{
+    padding-top: 1rem;
+}
+
+.btn-fluid{
+        display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 25%;
+    margin: auto;
+}
+
+.btn-fluid button {
+    height: 2rem;
+    font-size: small;
+    font-weight: 500;
+}

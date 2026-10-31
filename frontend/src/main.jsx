@@ -7,6 +7,7 @@ import Hero from './components/landings/Hero';
 import Features from './components/landings/Features';
 import Stats from './components/landings/Stats';
 import HowItWorks from './components/landings/HowItWorks';
+import Signup from './components/landings/Signup';
 
 
 
@@ -17,6 +18,6 @@ createRoot(document.getElementById('root')).render(
     <Features />
     <Stats />
     <HowItWorks />
-
+    <Signup />
   </StrictMode>,
 )
