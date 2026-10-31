@@ -1,0 +1,19 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.footer-social {
+    display: flex;
+    align-items: center;
+
+}
+
+.footer-social p {
+    font-size: 13px;
+    margin-left: 12px;
+}
+.footer-social span{
+    margin-left: 10px;
+}

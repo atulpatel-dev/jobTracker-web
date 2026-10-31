@@ -8,6 +8,7 @@ import Features from './components/landings/Features';
 import Stats from './components/landings/Stats';
 import HowItWorks from './components/landings/HowItWorks';
 import Signup from './components/landings/Signup';
+import Footer from './components/landings/Footer';
 
 
 
@@ -19,5 +20,6 @@ createRoot(document.getElementById('root')).render(
     <Stats />
     <HowItWorks />
     <Signup />
+    <Footer />
   </StrictMode>,
 )
